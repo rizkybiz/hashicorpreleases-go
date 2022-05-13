@@ -1,1 +1,1 @@
-# go-hashicorp-version
+# go-hashicorp-versions
