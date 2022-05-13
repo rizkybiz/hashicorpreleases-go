@@ -1,1 +1,1 @@
-# hashicorpversions-go
+# hashicorpreleases-go
